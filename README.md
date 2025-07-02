@@ -29,3 +29,12 @@
 ```bash
 git clone https://github.com/YOUR_USERNAME/AIResumeCritiquer.git
 cd AIResumeCritiquer
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+
+3. **Run the app**
+```bash
+streamlit run main.py
+
