@@ -27,14 +27,17 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/AIResumeCritiquer.git
+git clone https://github.com/DayanandK01/AIResumeCritiquer.git
 cd AIResumeCritiquer
+```
 
 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
+```
 
 3. **Run the app**
 ```bash
 streamlit run main.py
+```
 
